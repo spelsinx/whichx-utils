@@ -12,6 +12,9 @@ or:
 yarn add whichx-utils
 ```
 
-## 📃 Documentation (not fully)
-All documentation is located at **[NPM](https://www.npmjs.com/package/whichx-utils)**.
+## 📁 Documentation (not fully)
+All documentation on methods, requests, and additional information is on the **[NPM](https://www.npmjs.com/package/whichx-utils)**.
 
+## 📃 License 
+
+This information is distributed for informational purposes. We are not trying to offend anyone. For more information go to the file **[LICENSE](https://github.com/spelsinx/tg-userbot-js/blob/main/LICENSE)**. 
