@@ -13,5 +13,5 @@ yarn add whichx-utils
 ```
 
 ## 📃 Documentation (not fully)
-All documentation is located at (npm)[https://www.npmjs.com/package/whichx-utils]
+All documentation is located at **[NPM](https://www.npmjs.com/package/whichx-utils)**.
 
