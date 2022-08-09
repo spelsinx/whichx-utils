@@ -6,9 +6,13 @@ Repository of package, with tools designed to work with strings, numbers, and ma
 
 ## 🔑 Installation (not fully)
 You can download the package by following the commands below.
+
+From NPM:
 ```
 npm i whichx-utils 
-or:
+```
+From YARN:
+```
 yarn add whichx-utils
 ```
 
