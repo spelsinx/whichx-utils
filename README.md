@@ -17,7 +17,7 @@ A package, with tools designed to work with strings, numbers, and mathematics.
 
 ```
 
-npm install telestatic@latest
+npm install whichx-utils@latest
 
 ```
 
@@ -25,7 +25,7 @@ npm install telestatic@latest
 
 ```
 
-yarn add telestatic@latest
+yarn add whichx-utils@latest
 
 ```
 
