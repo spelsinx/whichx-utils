@@ -6,11 +6,28 @@
 
 <h1><p style="text-align: center" align="center">📦 WhichX-utils</p></h1>
 
-
-
 A package, with tools designed to work with strings, numbers, and mathematics.
 
+> 🚧 DEVELOPMENT! <br/> 
+> Development is in full swing, wait for the results.
 
+## 🔑 Installation (not fully)
+
+• From NPM:
+
+```
+
+npm install telestatic@latest
+
+```
+
+• From YARN:
+
+```
+
+yarn add telestatic@latest
+
+```
 
 ## 📁 Content
 
@@ -29,32 +46,21 @@ A package, with tools designed to work with strings, numbers, and mathematics.
 For export and import to work, you need to write ```type="module"``` in ```package.json```
 
 
-
 ## Usage getPort
 
 ```NodeJS
 
 import { port } from "whichx-utils";
 
-
-
 const body = port.default({
 
 Types: [
-
 {
-
     port: 80
-
 }
-
 ],
-
 config: {}
-
 });
-
-
 
 console.log(body) // { type: "HTTP" }
 
@@ -68,11 +74,7 @@ console.log(body) // { type: "HTTP" }
 
 import { MessageFrom } from "whichx-utils";
 
-
-
 const body = MessageFrom("hello");
-
-
 
 console.log(body) // Hello.
 
@@ -86,11 +88,7 @@ console.log(body) // Hello.
 
 import { getLast } from "whichx-utils";
 
-
-
 const body = ["hello", "bye"].getLast();
-
-
 
 console.log(body) // bye
 
@@ -104,11 +102,7 @@ console.log(body) // bye
 
 import { whileUtils } from "whichx-utils";
 
-
-
 const body = whileUtils("url in google.com");
-
-
 
 console.log(body) // ...
 
