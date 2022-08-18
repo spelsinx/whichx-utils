@@ -1,0 +1,31 @@
+{
+  "name": "whichx-utils",
+  "version": "1.0.0",
+  "description": "Package, with tools designed to work with strings, numbers, and mathematics.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spelsinx/whichx-utils.git"
+  },
+  "keywords": [
+    "modules",
+    "utils",
+    "data",
+    "array",
+    "string",
+    "object",
+    "math"
+  ],
+  "author": "spelsinxs, ostrovsky-swedesdart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spelsinx/whichx-utils/issues"
+  },
+  "homepage": "https://github.com/spelsinx/whichx-utils#readme",
+  "dependencies": {
+    "port-default": "^1.0.0"
+  }
+}
