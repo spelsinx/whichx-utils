@@ -16,7 +16,6 @@ A package, with tools designed to work with strings, numbers, and mathematics.
 • From NPM:
 
 ```
-
 npm install whichx-utils@latest
 
 ```
@@ -24,30 +23,23 @@ npm install whichx-utils@latest
 • From YARN:
 
 ```
-
 yarn add whichx-utils@latest
 
 ```
-
 ## 📁 Content
 
 - [GetPort](#usage-getport)
-
 - [MessageFrom](#usage-messagefrom)
-
 - [GetLast](#usage-to-getlast)
-
 - [WhileUtils](#usage-to-whileutils)
 
 
 
 ## ‼️ Important link
-
 For export and import to work, you need to write ```type="module"``` in ```package.json```
 
 
 ## Usage getPort
-
 ```NodeJS
 
 import { port } from "whichx-utils";
@@ -69,7 +61,6 @@ console.log(body) // { type: "HTTP" }
 
 
 ## Usage MessageFrom
-
 ```NodeJS
 
 import { MessageFrom } from "whichx-utils";
@@ -83,7 +74,6 @@ console.log(body) // Hello.
 
 
 ## Usage to getLast
-
 ```NodeJS
 
 import { getLast } from "whichx-utils";
@@ -97,7 +87,6 @@ console.log(body) // bye
 
 
 ## Usage to WhileUtils
-
 ```NodeJS
 
 import { whileUtils } from "whichx-utils";
