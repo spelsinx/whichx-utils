@@ -15,14 +15,14 @@ A package, with tools designed to work with strings, numbers, and mathematics.
 
 • From NPM:
 
-```
+```cmd
 npm install whichx-utils@latest
 
 ```
 
 • From YARN:
 
-```
+```cmd
 yarn add whichx-utils@latest
 
 ```
@@ -40,7 +40,7 @@ For export and import to work, you need to write ```type="module"``` in ```packa
 
 
 ## Usage getPort
-```NodeJS
+```js
 
 import { port } from "whichx-utils";
 
@@ -61,7 +61,7 @@ console.log(body) // { type: "HTTP" }
 
 
 ## Usage MessageFrom
-```NodeJS
+```js
 
 import { MessageFrom } from "whichx-utils";
 
@@ -74,7 +74,7 @@ console.log(body) // Hello.
 
 
 ## Usage to getLast
-```NodeJS
+```js
 
 import { getLast } from "whichx-utils";
 
@@ -87,7 +87,7 @@ console.log(body) // bye
 
 
 ## Usage to WhileUtils
-```NodeJS
+```js
 
 import { whileUtils } from "whichx-utils";
 
