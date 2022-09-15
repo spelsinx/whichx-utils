@@ -108,5 +108,5 @@ This information is distributed for informational purposes. We are not trying to
 😍 and more soon...
 
 ## 🔗 Creadits
-- [spelsinx](vk.com/spelsinx)
-- [swedesdart](vk.com/swedesdart)
+- [spelsinx](https://vk.com/spelsinx)
+- [swedesdart](https://vk.com/id569336824)
