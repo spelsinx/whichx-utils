@@ -8,7 +8,7 @@ const { getLast } = require("./library/AnonymousFunction/getLast.js");
 const { getProcent } = require("./library/AnonymousFunction/getProcent.js");
 const { getDeviceInfo } = require("./library/AnonymousFunction/getDevice.js");
 const { whileUtils } = require("./library/VK/utils/token.js");
-//const { getReat } = require("./library/AnonymousFunction/getReat.js");
+//c onst { getReat } = require("./library/AnonymousFunction/getReat.js");
 
 
 exports.MessageFrom = MessageFrom; // From UpperCase, .
