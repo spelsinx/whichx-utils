@@ -1,5 +1,3 @@
-
-
 [![npm](https://img.shields.io/npm/dt/whichx-utils.svg?style=flat-square)](https://npmjs.com/package/whichx-utils) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com)
 
 
@@ -36,7 +34,7 @@ yarn add whichx-utils@latest
 
 
 ## ‼️ Important link
-For export and import to work, you need to write ```type="module"``` in ```package.json```
+For export and import to work with usages, you need to write ```type="module"``` in ```package.json```
 
 
 ## Usage getPort
@@ -65,7 +63,7 @@ console.log(body) // { type: "HTTP" }
 
 import { MessageFrom } from "whichx-utils";
 
-const body = MessageFrom("hello");
+const body = MessageFrom("Hello");
 
 console.log(body) // Hello.
 
@@ -90,16 +88,12 @@ console.log(body) // bye
 ```js
 
 import { whileUtils } from "whichx-utils";
-
-const body = whileUtils("url in google.com");
+ 
+const body = whileUtils("facebook.com"); // url from google.com
 
 console.log(body) // ...
 
 ```
-
-## 📁 Documentation (COMMING SOON) (not fully)
-
-All documentation on methods, requests, and additional information is on the **[WHICHX-UTILS](whichx-utils.github.io)**.
 
 ## 📃 License 
 
